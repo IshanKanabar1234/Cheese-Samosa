@@ -1,0 +1,2 @@
+# Cheese-Samosa
+This is a recipe of delicious cheese samosa.This is recipe for 16 samosa so take accordingly.[link for google](https://www.flourandspiceblog.com/jalapeno-popper-wontons-or-a-spicy-cheesy-samosa/#wprm-recipe-container-12357)
